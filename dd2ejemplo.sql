@@ -43,7 +43,6 @@ CREATE TABLE Patient (
   gender VARCHAR(10),
   date_birth DATE,
   insurance_number VARCHAR(50),
-  prescription_id INT,
   address VARCHAR(255)
 );
 
